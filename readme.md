@@ -18,6 +18,18 @@
 * create-react-native-app
 * Eject
 
+### Day 2
+
+* create-react-native-app, Packager
+* Eject, RN Bridge
+* AsyncStorage
+* Native modules
+* Debugging, logs
+* (_Lunch_)
+* Community components
+* Animations
+* Navigation
+
 ## Preparations
 
 We will build mobile apps (Android or iOS) during the training, but no prior knowledge in mobile app development is required. We only expect everyone to be familiar with JavaScript and overall web development, including git and npm.
