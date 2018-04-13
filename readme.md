@@ -44,7 +44,7 @@ Make sure that your laptop and phone have everything installed because we do not
 * Phone or a tablet device. Must run either Android or recent iOS
 * USB cable to connect the phone to your computer (e.g. your charger)
 
-## Install these:
+## Install these (for the first day):
 
 * IDE or text editor (e.g. Visual Studio Code, Atom, Sublime Text, etc)
 * Node.js (Install version 8.x preferably through nvm)
@@ -58,3 +58,10 @@ Make sure that your laptop and phone have everything installed because we do not
 * Open the QR code in that site
 * Scan the QR code with the Expo app on your mobile device
 * Check that it opens the example correctly
+
+## Install these (for the second day):
+
+* (If you have an Android phone): Android Studio and through it, SDK for your phone's OS version
+* (If you have an iPhone): XCode
+* `npm install -g react-native`
+
