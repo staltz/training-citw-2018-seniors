@@ -50,7 +50,7 @@ Make sure that your laptop and phone have everything installed because we do not
 * Node.js (Install version 8.x preferably through nvm)
 * Git
 * Chrome (for debugging the apps)
-* On your mobile device: Expo app (Android or iOS)
+* On your mobile device: Expo app ([Android](https://play.google.com/store/apps/details?id=host.exp.exponent&referrer=www) or [iOS](https://itunes.apple.com/app/apple-store/id982107779))
 
 ## Test your environment
 
@@ -61,7 +61,6 @@ Make sure that your laptop and phone have everything installed because we do not
 
 ## Install these (for the second day):
 
-* (If you have an Android phone): Android Studio and through it, SDK for your phone's OS version
-* (If you have an iPhone): XCode
+* (If you have an Android phone): [install Android Studio](https://developer.android.com/studio/index.html), then inside it, install the SDK for your phone's OS version
+* (If you have an iPhone): install XCode (through the App Store)
 * `npm install -g react-native`
-
