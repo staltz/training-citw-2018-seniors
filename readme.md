@@ -6,22 +6,18 @@
 * React (components, props, state, VDOM, JSX)
 * View, Text
 * Styles
-* (_Break_)
 * Flexbox
 * TextInput
 * Touchables and Buttons
 * (_Lunch_)
 * Image
 * Networking
-* (_Break_)
 * ScrollView and FlatList
-* create-react-native-app
-* Eject
 
 ### Day 2
 
-* create-react-native-app, Packager
-* Eject, RN Bridge
+* react-native init
+* Packager and Bridge architecture
 * AsyncStorage
 * Native modules
 * Debugging, logs
